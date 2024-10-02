@@ -2950,7 +2950,7 @@ https://mgesq.api.mgtv.com/v2/user/center/icon reject-dict
 # > 中国移动
 # hostname = client.app.coc.10086.cn, h.client.app.coc.10086.cn, app.10086.cn
 ^https?:\/\/client\.app\.coc\.10086\.cn\/biz-orange\/DN\/init\/startInit reject-200
-^https?:\/\/client\.app\.coc\.10086\.cn\/biz-orange\/DN\/explorePage\/getAdverList reject
+#^https?:\/\/client\.app\.coc\.10086\.cn\/biz-orange\/DN\/explorePage\/getAdverList reject
 # 多个悬浮窗
 #^https?:\/\/(client\.app\.coc|h\.app\.coc|app)\.10086\.cn\/biz-orange\/DN\/emotionMarket reject
 
